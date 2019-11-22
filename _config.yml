@@ -41,8 +41,8 @@ about_content: | # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my career as a corporate strategy consultant, I'm also happy wife of an intelligent man and proud mom of two cute kids. My family is the strongest support behind my success and certainly one of the most important part of my life.
+# more_content: | # this will include new lines to allow paragraphs
+#   Alongside my career as a corporate strategy consultant, I'm also happy wife of an intelligent man and proud mom of two cute kids. My family is the strongest support behind my success and certainly one of the most important part of my life.
 
 # Footer
 footer_show_references: true
