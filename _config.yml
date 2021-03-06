@@ -3,10 +3,10 @@ repository: vicky-mao/vicky-mao.github.io
 # favicon: images/favicon.ico
 
 # Personal info
-name: Vicky Mao
-title: Senior Consultant
+name: 毛艺桦
+title: 高级咨询师
 email: 522631185@qq.com
-website: https://vicky-mao.github.io
+website: https://vicky-mao.github.io/vicky-mao-lite-cn
 
 # Social links
 #twitter_username: facespics
@@ -24,14 +24,13 @@ linkedin_username: vicky-mao-6ab988138
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi there, my name’s Vicky and I’m a senior consultant in meso-economy arena. I have got rich experience in laying out strategic plans for quite a number of types of projects including policy, industrialization, land & civil issues, etc., providing intellectual support for corporations, governments and NGOs.
-  
-  Projects I worked on covered a wide range of topics, from strategy to operations. In a typical engagement, I own a work stream to deliver the end recommendation. Typical activities involve performing analysis of the particular problems as defined for the work stream, including identifying and prioritizing issues for further analysis, synthesizing the insights from the analyses, developing recommendations based on the synthesis, and creating plans to implement the recommendations.
-  
-  I am most skilled in <mark>quantitative</mark>, <mark>analytical</mark> and <mark>conceptual</mark> problem-solving.
+  您好，我是一名战略规划咨询师，在中观经济研究领域拥有丰富经验，曾经为多家企业、政府机构及非营利组织提供战略规划服务，帮助他们在政策制定、产业规划、土地及政务服务领域取得重要进展及显著成果。
 
-# Projects Section
-# projects_title: Projects
+  Hi there, my name’s Vicky and I’m a senior consultant in meso-economy arena. I have got rich experience in laying out strategic plans for quite a number of types of projects including policy, industrialization, land & civil issues, etc., providing intellectual support for corporations, governments and NGOs.
+
+  Projects I worked on covered a wide range of topics, from strategy to operations. In a typical engagement, I own a work stream to deliver the end recommendation. Typical activities involve performing analysis of the particular problems as defined for the work stream, including identifying and prioritizing issues for further analysis, synthesizing the insights from the analyses, developing recommendations based on the synthesis, and creating plans to implement the recommendations.
+
+  I am most skilled in <mark>quantitative</mark>, <mark>analytical</mark> and <mark>conceptual</mark> problem-solving.
 
 # Experience Section
 # experience_title: Experience
